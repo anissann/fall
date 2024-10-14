@@ -1,0 +1,88 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.container {
+    background-image: url(fall.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1000px;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.boxes {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.boxone {
+    background-color: white;
+    border-radius: 5px;
+    margin: 0 4px;
+    width: 115px;
+    height: auto;
+    background-color: bisque;
+}
+
+.boxtwo {
+    background-color: white;
+    border-radius: 5px;
+    margin: 0 4px;
+    width: 115px;
+    height: auto;
+    background-color: bisque;
+}
+
+.boxthree {
+    background-color: white;
+    border-radius: 5px;
+    margin: 0 4px;
+    width: 115px;
+    height: auto;
+    background-color: bisque;
+}
+
+.boxfour {
+    background-color: white;
+    border-radius: 5px;
+    margin: 0 4x;
+    width: 115px;
+    height: auto;
+    background-color: bisque;
+}
+
+h1, p {
+    text-align: center;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(44, 18, 0);
+}
+
+.heading {
+    margin-top: -120px;
+}
+
+.header {
+    font-size: 45px;
+    color: rgb(44, 18, 0);
+}
+
+.underheader {
+    font-size: 13px;
+    color: rgb(44, 18, 0);
+}
+
+.hone {
+    font-size: 50px;
+    color: rgb(44, 18, 0);
+}
